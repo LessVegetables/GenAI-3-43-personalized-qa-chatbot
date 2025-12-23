@@ -103,4 +103,4 @@ htmlcov/
 *.log
 *.tmp
 .cache/
-results/
+results
